@@ -1,5 +1,8 @@
 #Word Game is a knock-off version of a popular online word-guessing game.
-
+#WordGame.py
+#Name:Scott Bassinger
+#Date:02/22/2026
+#Assignment:Lab 5 - WordGame
 import random
 
 def inWord(letter, word):
