@@ -1,3 +1,10 @@
+#CaesarCipher.py
+#Name:Scott Bassinger
+#Date:02/22/2026
+#Assignment:Lab 5 - Caesar Cipher
+
+
+
 #Caesar Cipher
 #The Caesar cipher moves each letter forward in the alphabet by
 #the key.  The resulting message has all the letters advanced by 'key'
